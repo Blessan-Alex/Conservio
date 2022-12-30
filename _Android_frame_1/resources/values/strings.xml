@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame_1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="add_device_string">Add Device</string>
+	<string name="add_your_home_appliances_to_start_saving_the_earth_string">Add your home appliances to start saving the Earth</string>
+	<string name="conserve_now_string">CONSERVE NOW</string>
+	<string name="your_devices_string">Your Devices</string>
+	<string name="conserve_io_string">Conserve.io</string>
+	<string name="ceiling_fan_string">Ceiling Fan</string>
+</resources>

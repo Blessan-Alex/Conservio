@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame_1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__frame_1_ek2_color">#1E1E1E</color>
+	<color name="rectangle_1_color">#2C2C2C</color>
+	<color name="rectangle_2_color">#ADE28A</color>
+	<color name="add_device_color">#000000</color>
+	<color name="ellipse_65_color">#ffffff</color>
+	<color name="add_your_home_appliances_to_start_saving_the_earth_color">#C1C1C9</color>
+	<color name="your_devices_color">#CBCBD4</color>
+	<color name="ceiling_fan_color">#FFFFFF</color>
+</resources>
